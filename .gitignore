@@ -1,3 +1,5 @@
-### IntelliJ IDEA ###
-/node_modules/
+# idea
 .idea
+
+# dependencies
+/node_modules/
